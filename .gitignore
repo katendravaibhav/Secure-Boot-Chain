@@ -1,0 +1,10 @@
+# Generated artifacts
+build/
+*.o
+*.elf
+*.bin
+*.sig
+__pycache__/
+*.pyc
+keys/private.pem
+keys/private.key
